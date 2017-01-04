@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ginov\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="F:\Project_android_studio\AndroidSimpleMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_dd9ce68ade0ecf89c5822375a15f98f3bff1577d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Project_android_studio\AndroidSimpleMap\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9a66e5e238ec9680bc02ab4906ca6f036653c28a">
+        <dex dex="F:\Project_android_studio\AndroidSimpleMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_836219ff0ca739683769b0da61fe2435badb1144\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Project_android_studio\AndroidSimpleMap\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="75d665fbb70ea8b5c0b056f56dc7b5b6b9c68d0c">
+        <dex dex="F:\Project_android_studio\AndroidSimpleMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_86d992133102bdc4017beae6cb226c6d3057347c\classes.dex" />
+    </item>
+
+</items>

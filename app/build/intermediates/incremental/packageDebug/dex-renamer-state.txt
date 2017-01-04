@@ -1,0 +1,7 @@
+#Thu Jan 05 00:30:48 CET 2017
+base.0=F\:\\Project_android_studio\\AndroidSimpleMap\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_836219ff0ca739683769b0da61fe2435badb1144
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\Project_android_studio\\AndroidSimpleMap\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_86d992133102bdc4017beae6cb226c6d3057347c\\classes.dex
+base.1=F\:\\Project_android_studio\\AndroidSimpleMap\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_86d992133102bdc4017beae6cb226c6d3057347c
+file.0=F\:\\Project_android_studio\\AndroidSimpleMap\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_836219ff0ca739683769b0da61fe2435badb1144\\classes.dex
